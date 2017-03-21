@@ -1,6 +1,6 @@
 # mobile-check 
 
-A function to check whether a page is viewed from a mobile device. Returns true or false. Add to the top of your JavaScript and the following to check:   
+A function to check whether a page is viewed from a mobile device. Returns true or false. Add to the top of your JavaScript and use the following condition check:   
 
 `if (window.mobilecheck() === false) { ... }`  
 
